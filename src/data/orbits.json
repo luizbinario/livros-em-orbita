@@ -1,0 +1,138 @@
+{
+  "past-fantastic": [
+    {
+      "title": "Sherlock Holmes - Romances e Contos",
+      "image": "sherlockholmes.jpg"
+    },
+    {
+      "title": "A batalha do apocalipse",
+      "image": "abatalhadoapocalipse.jpg"
+    },
+    {
+      "title": "Admirável mundo novo",
+      "image": "admiravelmundonovo.jpg"
+    },
+    {
+      "title": "O Senhor dos Anéis",
+      "image": "osenhordosaneis.jpg"
+    },
+    {
+      "title": "O homem que calculava",
+      "image": "ohomemquecalculava.jpg"
+    },
+    {
+      "title": "Anjos e Demônios",
+      "image": "anjosedemonios.jpg"
+    },
+    {
+      "title": "O Círculo",
+      "image": "ocirculo.jpg"
+    },
+    {
+      "title": "Fahrenheit 451",
+      "image": "fahrenheit451.jpg"
+    }
+  ],
+  "past-thinking": [
+    {
+      "title": "Origens: catorze bilhões de anos de evolução cósmica",
+      "image": "origens.jpg"
+    },
+    {
+      "title": "Os Inovadores",
+      "image": "osinovadores.jpg"
+    },
+    {
+      "title": "Scrum: A arte de fazer o dobro do trabalho na metade do tempo",
+      "image": "scrumaarte.jpg"
+    },
+    {
+      "title": "Por quê o mundo existe? - Um mistério existencial",
+      "image": "porqueomundoexiste.jpg"
+    },
+    {
+      "title": "A Inteligência Coletiva",
+      "image": "inteligenciacoletiva.jpg"
+    },
+    {
+      "title": "Introdução ao Cristianismo: Preleções sobre o símbolo apostólico",
+      "image": "introducaoaocristianismo.jpg"
+    },
+    {
+      "title": "A Meta - Um processo de melhoria contínua",
+      "image": "ameta.jpg"
+    },
+    {
+      "title": "Sapiens: Uma breve história da humanidade",
+      "image": "sapiens.jpg"
+    }
+  ],
+  "present": [
+    {
+      "title": "Ubuntu todos os dias",
+      "image": "ubuntutodososdias.jpg"
+    },
+    {
+      "title": "O mítico homem-mês",
+      "image": "omiticohomemmes.jpg"
+    },
+    {
+      "title": "Quadragesimo Anno",
+      "image": "quadragesimoanno.jpg"
+    },
+    {
+      "title": "Matemática e língua materna",
+      "image": "matematicaelinguamaterna.jpg"
+    },
+    {
+      "title": "Meditações de Marco Aurélio",
+      "image": "meditacoes.jpg"
+    },
+    {
+      "title": "Sprint: O Método Usado no Google Para Testar e Aplicar Novas Ideias Em Apenas Cinco Dias",
+      "image": "sprint.jpg"
+    },
+    {
+      "title": "Superinteligência: Caminhos, perigos, estratégias",
+      "image": "superinteligencia.jpg"
+    },
+    {
+      "title": "Casa-Grande e Senzala",
+      "image": "casagrandeesenzala.jpg"
+    }
+  ],
+  "future": [
+    {
+      "title": "Memórias póstumas de Bras Cubas",
+      "image": "memoriaspostumas.jpg"
+    },
+    {
+      "title": "Teoria do Agir Comunicativo",
+      "image": "teoriaagircomunicativo.jpg"
+    },
+    {
+      "title": "A evolução criadora",
+      "image": "aevolucaocriadora.jpg"
+    },
+    {
+      "title": "Código Limpo: Habilidades práticas do Agile Software",
+      "image": "codigolimpo.jpg"
+    },
+    {
+      "title": "Homero: Ilíada e Odisseia",
+      "image": "iliadaodisseia.jpg"
+    },
+    {
+      "title": "A Filosofia e o espelho da natureza",
+      "image": "filosofiaespelhonatureza.jpg"
+    },
+    {
+      "title": "Perdido em Marte",
+      "image": "perdidoemmarte.jpg"
+    },
+    {
+      "title": "Estado, Governo, Sociedade: Fragmentos de um dicionário político",
+      "image": "estadogovernosociedade.jpg"
+    }
+  ]
+}
