@@ -70,19 +70,23 @@
   "present": [
     {
       "title": "Ubuntu todos os dias",
-      "image": "ubuntutodososdias.jpg"
+      "image": "ubuntutodososdias.jpg",
+      "info": "Ubuntu, uma pequena palavra que contém uma grande ideia: “Uma pessoa só é uma pessoa por meio de outras pessoas.” Ensinamentos, provérbios, idiomas, convivência, relações ― somos impactados por todo tipo de conhecimento e interação e impactamos uns aos outros em toda nossa potência. Em Ubuntu todos os dias, aprendemos que sentimos ubuntu quando nos conectamos aos nossos semelhantes e compartilhamos um senso de benevolência; quando ouvimos com atenção e experimentamos um vínculo emocional; quando tratamos a nós mesmos e aos outros com a dignidade merecida."
     },
     {
       "title": "O mítico homem-mês",
-      "image": "omiticohomemmes.jpg"
+      "image": "omiticohomemmes.jpg",
+      "info": "Com uma rica mistura de fatos sobre engenharia de software e opiniões que provocam a reflexão, Frederick Brooks oferece sua visão para todos aqueles que lidam com a gestão de projetos complexos. Passados 20 anos da publicação original, em 1975, Brooks revisou suas ideias originais, adicionando novos pensamentos e conselhos em uma edição especial de aniversário. Agora, quase 35 anos depois da primeira edição, comemorando sua primeira versão em português, Brooks concede uma entrevista exclusiva sobre seu trabalho, que os leitores podem conferir nas primeiras páginas deste livro."
     },
     {
       "title": "Quadragesimo Anno",
-      "image": "quadragesimoanno.jpg"
+      "image": "quadragesimoanno.jpg",
+      "info": "Agora que todo o mundo e sobretudo os operários católicos comemoram com tanta solenidade e entusiasmo o quadragésimo aniversário da encíclica Rerum novarum, julgamos nosso dever aproveitar esta ocasião para recordar os grandes benefícios que dela advieram à Igreja Católica e a toda a humanidade; defender a doutrina social e econômica de tão grande mestre, satisfazendo a algumas dúvidas, desenvolvendo e precisando alguns pontos; e, finalmente, chamando a juízo o regime econômico moderno e instaurando um processo contra o socialismo, apontar a raiz do mal-estar da sociedade contemporânea e mostrar-lhe a única via de uma restauração salutar, que é a reforma cristã dos costumes. Eis os três pontos da presente encíclica"
     },
     {
       "title": "Matemática e língua materna",
-      "image": "matematicaelinguamaterna.jpg"
+      "image": "matematicaelinguamaterna.jpg",
+      "info": "O alfabeto e os números, a Matemática e a Língua são consideradas departamentos estanques nos currículos escolares. O autor analisa a relação de impregnação entre as duas disciplinas, fundamento para a proposição de ações que superem as dificuldades encontradas no ensino de Matemática."
     },
     {
       "title": "Meditações de Marco Aurélio",

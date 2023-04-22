@@ -1,6 +1,6 @@
 <template>
   <div class="h-screen overflow-hidden bg-black">
-    <nav class="fixed w-full flex gap-4 p-2 justify-center z-20 bg-slate-700 text-white font-bold">
+    <nav class="fixed w-full flex gap-4 py-4 justify-center z-20 bg-slate-950 bg-opacity-50 text-white font-bold">
       <button @click.prevent="travelTo('past-fantastic')" class="border-2 px-4 py-1 rounded">Passado Fantástico</button>
       <button @click.prevent="travelTo('past-thinking')" class="border-2 px-4 py-1 rounded">Passado Pensante</button>
       <button @click.prevent="travelTo('present')" class="border-2 px-4 py-1 rounded">Presente</button>

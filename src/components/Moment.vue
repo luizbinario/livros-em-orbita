@@ -1,6 +1,6 @@
 <template>
   <div
-    class="w-screen h-screen flex items-center justify-center"
+    class="w-screen h-screen flex items-center justify-center inner-shadow"
     :class="['bg-'+when+' bg-cover bg-center']"
   >
     <div class="orbit w-96 h-96 flex flex-col items-center justify-center ease-in duration-1000 z-10">
@@ -104,5 +104,8 @@
   }
   .bg-future {
     background-image: url('/backgrounds/future.jpg');
+  }
+  .inner-shadow {
+    box-shadow: rgb(0, 0, 0) 0px 0px 100px 15px inset;
   }
 </style>
