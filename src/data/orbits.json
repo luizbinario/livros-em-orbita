@@ -2,69 +2,85 @@
   "past-fantastic": [
     {
       "title": "Sherlock Holmes - Romances e Contos",
-      "image": "sherlockholmes.jpg"
+      "image": "sherlockholmes.jpg",
+      "info": "Em 1887, o escritor escocês Ssir Arthur Conan Doyle criou Sherlock Holmes, o infalível detetive a quem os agentes da Scotland Yard recorriam para solucionar os mistérios mais intrigantes da Inglaterra vitoriana. Desde então, as aventuras do mestre da investigação atraem leitores ávidos por chegar à última página e ver o enigma desvendado. Para desvendar mistérios, o faro e a astúcia de Sherlock Holmes levam às fontes menos óbvias, às informações mais precisas. Um modelo que influencia até hoje a literatura policial e revela fôlego para impressionar gerações de leitores através dos tempos."
     },
     {
       "title": "A batalha do apocalipse",
-      "image": "abatalhadoapocalipse.jpg"
+      "image": "abatalhadoapocalipse.jpg",
+      "info": "Tudo começou há muitos e muitos anos, há tantos anos quanto o número de estrelas no céu, o Paraíso Celeste foi palco de um terrível levante. Um grupo de anjos guerreiros, amantes da justiça e da liberdade, desafiou a tirania dos poderosos arcanjos, levantando armas contra seus opressores. Expulsos, os renegados foram forçados ao exílio, e condenados a vagar pelo mundo dos homens até o dia do Juízo Final. Mas eis que chega o momento do Apocalipse, o tempo do ajuste de contas, o dia do despertar do Altíssimo. Único sobrevivente do expurgo, o líder dos renegados é convidado por Lúcifer, o Arcanjo Negro, a se juntar às suas legiões na batalha do Armagedon, o embate final entre o Céu e o Inferno, a guerra que decidirá não só o destino do mundo, mas o futuro do universo."
     },
     {
       "title": "Admirável mundo novo",
-      "image": "admiravelmundonovo.jpg"
+      "image": "admiravelmundonovo.jpg",
+      "info": "Em uma sociedade organizada segundo princípios estritamente científicos, Bernard Marx, um psicólogo, sente-se inadequado quando se compara aos outros seres de sua casta. Ao descobrir uma “reserva histórica” que preserva costumes de uma sociedade anterior – muito semelhante à do leitor – Bernard vai perceber as diferenças entre esta civilização e a sua – e a partir de um sentimento de inconformismo ele desafiará o mundo. A história de Bernard se passa em um ambiente em que a literatura, a música e o cinema só têm a função de solidificar a alienação; um universo que louva o avanço da técnica, a produção em série, a uniformidade contra a diversidade."
     },
     {
       "title": "O Senhor dos Anéis",
-      "image": "osenhordosaneis.jpg"
+      "image": "osenhordosaneis.jpg",
+      "info": "Apesar de ter sido publicado em três volumes – a sociedade do anel, as duas torres e o retorno do rei – desde os anos 1950, o senhor dos anéis não é exatamente uma trilogia, mas um único grande romance que só pode ser compreendido em seu conjunto, segundo a concepção de seu autor, j.r.r. Tolkien."
     },
     {
       "title": "O homem que calculava",
-      "image": "ohomemquecalculava.jpg"
+      "image": "ohomemquecalculava.jpg",
+      "info": "A matemática recreativa apresentada em O homem que calculava é, certamente, menos dolorosa que a fria e doutoral ensinada nos colégios. Malba Tahan (pseudônimo do professor Júlio César de Mello e Souza) conseguiu realizar quase que um milagre, uma mágica: unir ciência e ficção e acertar. Seu talento e sua prodigiosa imaginação são capazes de criar personagens e situações de grande apelo popular, o que explica seu imenso sucesso. O homem que calculava é uma oportunidade para os aficionados dos algarismos e jogos matemáticos se deliciarem com os vários capítulos lúdicos da obra. Tahan narra a história de Bereniz Samir, um viajante com o dom intuitivo da matemática, manejando os números com a facilidade de um ilusionista. Problemas aparentemente sem solução tornam-se de uma transparente simplicidade quando expostos a ele. Gráficos facilitam ainda mais a leitura do livro. Uma pequena obra-prima da literatura infanto-juvenil."
     },
     {
       "title": "Anjos e Demônios",
-      "image": "anjosedemonios.jpg"
+      "image": "anjosedemonios.jpg",
+      "info": "Antes de decifrar O Código Da Vinci, Robert Langdon, o famoso professor de simbologia de Harvard, vive sua primeira aventura em Anjos e demônios, quando tenta impedir que uma antiga sociedade secreta destrua a Cidade do Vaticano. Às vésperas do conclave que vai eleger o novo Papa, Langdon é chamado às pressas para analisar um misterioso símbolo marcado a fogo no peito de um físico assassinado em um grande centro de pesquisas na Suíça. Ele descobre indícios de algo inimaginável: a assinatura macabra no corpo da vítima é dos Illuminati, uma poderosa fraternidade que ressurgiu disposta a levar a cabo a lendária vingança contra a Igreja Católica. De posse de uma nova arma devastadora, roubada do centro de pesquisas, ela ameaça explodir a Cidade do Vaticano e matar os quatro cardeais mais cotados para a sucessão papal."
     },
     {
       "title": "O Círculo",
-      "image": "ocirculo.jpg"
+      "image": "ocirculo.jpg",
+      "info": "Encenado num futuro próximo indefinido, o engenhoso romance de Dave Eggers conta a história de Mae Holland, uma jovem profissional contratada para trabalhar na empresa de internet mais poderosa do mundo: O Círculo. Sediada num campus idílico na Califórnia, a companhia incorporou todas as empresas de tecnologia que conhecemos, conectando e-mail, mídias sociais, operações bancárias e sistemas de compras de cada usuário em um sistema operacional universal, que cria uma identidade on-line única em por consequência, uma nova era de civilidade e transparência. Mae mal pode acreditar na sorte de fazer parte de um lugar assim. A modernidade do Círculo aparece tanto na sua arquitetura quanto nos escritórios aprazíveis e convidativos."
     },
     {
       "title": "Fahrenheit 451",
-      "image": "fahrenheit451.jpg"
+      "image": "fahrenheit451.jpg",
+      "info": "Guy Montag é um bombeiro. Sua profissão é atear fogo nos livros. Em um mundo onde as pessoas vivem em função das telas e a literatura está ameaçada de extinção, os livros são objetos proibidos, e seus portadores são considerados criminosos. Montag nunca questionou seu trabalho; vive uma vida comum, cumpre o expediente e retorna ao final do dia para sua esposa e para a rotina do lar. Até que conhece Clarisse, uma jovem de comportamento suspeito, cheia de imaginação e boas histórias. Quando sua esposa entra em colapso mental e Clarisse desaparece, a vida de Montag não poderá mais ser a mesma."
     }
   ],
   "past-thinking": [
     {
       "title": "Origens: catorze bilhões de anos de evolução cósmica",
-      "image": "origens.jpg"
+      "image": "origens.jpg",
+      "info": "Em Origens – 14 bilhões de anos de evolução cósmica, os autores traçam o roteiro de uma ampla jornada científica aos aspectos macro e micro do universo. Neil deGrasse Tyson e Donald Goldsmith nos conduzem tanto pelo surgimento das galáxias e da estrutura cósmica e pelo nascimento das estrelas e dos planetas quanto ao quase infinitamente microscópico começo da vida, nos ambientes da microbiologia. Iniciando com o Big Bang, passando pelo início da vida na terra e a busca da vida extraterrestre, os autores avançam até a primeira imagem do nascimento de uma galáxia e seguem até a exploração de Marte pela sonda Spirit, sem deixar de fora eventos como a descoberta de água em uma das luas de Júpiter."
     },
     {
       "title": "Os Inovadores",
-      "image": "osinovadores.jpg"
+      "image": "osinovadores.jpg",
+      "info": "Os inovadores é uma saga magistral sobre como a colaboração entre criadores engenhosos estava destinada a compor a história da Revolução Digital ― e também um guia indispensável sobre como a inovação de fato acontece. Aclamado pela crítica, o livro traça um panorama lúcido sobre como os principais responsáveis por essa revolução tecnológica não apenas colocaram suas ideias em prática, como também dominaram a arte do trabalho em equipe para potencializar ainda mais sua criatividade."
     },
     {
       "title": "Scrum: A arte de fazer o dobro do trabalho na metade do tempo",
-      "image": "scrumaarte.jpg"
+      "image": "scrumaarte.jpg",
+      "info": "Instituições que adotaram o método Scrum já registraram ganhos de produtividade de até 1.200%. É por causa dele que a Amazon pode acrescentar um novo recurso em seu site todos os dias, que o Red River Army Depot, no Texas, consegue lançar utilitários blindados 39 vezes mais rápido e que o FBI finalmente criou um enorme banco de dados de rastreamento de terroristas. Com base em insights de artes marciais, tomadas de decisão judicial, combate aéreo avançado, robótica e muitas outras disciplinas, o método Scrum é prático e fascinante. Mas a razão mais importante para ler esse livro é que ele pode ajudar você a alcançar o que os outros consideram inatingível – seja inventando uma tecnologia pioneira, planejando um novo sistema educacional, viabilizando um caminho para ajudar os mais pobres ou mesmo estabelecendo os alicerces para a sua família prosperar."
     },
     {
       "title": "Por quê o mundo existe? - Um mistério existencial",
-      "image": "porqueomundoexiste.jpg"
+      "image": "porqueomundoexiste.jpg",
+      "info": "Uma tragédia pessoal levou o filósofo e jornalista Jim Holt a se fazer perguntas que ocorrem à maioria dos seres humanos. Por que existe algo e não apenas o nada? Por que há um universo do qual fazemos parte? Em busca de respostas, ele iniciou uma investigação sobre o mistério da existência, questão que há séculos fascina e atormenta os pensadores, procurando grandes nomes de diferentes áreas de conhecimento, como o escritor John Updike, o filósofo Adolf Grünbaum e o físico Andrei Linde. Em seu itinerário, incluiu uma parada reflexiva no famoso Café de Flore, reduto dos existencialistas em Paris, frequentado por Jean-Paul Sartre e Simone de Beauvoir."
     },
     {
       "title": "A Inteligência Coletiva",
-      "image": "inteligenciacoletiva.jpg"
+      "image": "inteligenciacoletiva.jpg",
+      "info": "A magia dos mundos virtuais está cada dia mais ao alcance do grande público: o número de usuários das redes mundiais de comunicação informatizada aumenta 10 ao mês. As “autoestradas da informação” e a multimídia interativa anunciam uma mutação nos modos de comunicação e de acesso ao saber. Emerge um novo meio de comunicação, de pensamento e de trabalho para as sociedades humanas: o ciberespaço. Como nossa cultura será afetada por ele? Teremos apenas uma supertevê ou renovaremos o vínculo social no sentido de obter uma maior fraternidade? Neste livro, Pierre Lévy nos convida a pensar, além do impacto das técnicas sobre a sociedade, em termos de projeto. Os novos meios de comunicação permitem aos grupos humanos pôr em comum seu saber e seu imaginário. Forma social inédita, o coletivo inteligente pode inventar uma democracia em tempo real , uma ética da hospitalidade, uma estética da invenção, uma economia das qualidades humanas."
     },
     {
       "title": "Introdução ao Cristianismo: Preleções sobre o símbolo apostólico",
-      "image": "introducaoaocristianismo.jpg"
+      "image": "introducaoaocristianismo.jpg",
+      "info": "Trata-se de uma síntese do Credo. A partir de uma densa compreensão da fé, o leitor percorre artigo por artigo do Credo, adentrando-se, nas verdades do Símbolo Apostólico. A fé é um dom, mas é feita a um ser racional que pede um mínimo de inteligência de quem crê. Este texto abre caminho para a caminhada em meio às difíceis veredas da modernidade iluminista."
     },
     {
       "title": "A Meta - Um processo de melhoria contínua",
-      "image": "ameta.jpg"
+      "image": "ameta.jpg",
+      "info": "Best-seller consagrado, com mais de 2 milhões de exemplares vendidos no mundo e traduzido em mais de 20 idiomas, o livro, adquirido pelo grande público e homens de negócios, foi adotado por mais de 200 faculdades. Escrito em forma de romance, o autor trata dos principios de funcionamento de uma indústria, questionando o porquê de ela funcionar de determinada forma e como seria possível solucionar os problemas de empresas que estão com atrasos na produção e baixa receita. Com resultados alcançados na prática, o processo de melhoria contínua desenvolvido por Goldratt pode ser aplicado em outras organizações, como bancos, hospitais, seguradoras, e até no ambiente familiar."
     },
     {
       "title": "Sapiens: Uma breve história da humanidade",
-      "image": "sapiens.jpg"
+      "image": "sapiens.jpg",
+      "info": "O planeta Terra tem cerca de 4,5 bilhões de anos. Numa fração ínfima desse tempo, uma espécie entre incontáveis outras o dominou: nós, humanos. Somos os animais mais evoluídos e mais destrutivos que jamais viveram. Sapiens é a obra-prima de Yuval Noah Harari e o consagrou como um dos pensadores mais brilhantes da atualidade. Num feito surpreendente, que já fez deste livro um clássico contemporâneo, o historiador israelense aplica uma fascinante narrativa histórica a todas as instâncias do percurso humano sobre a Terra. Da Idade da Pedra ao Vale do Silício, temos aqui uma visão ampla e crítica da jornada em que deixamos de ser meros símios para nos tornarmos os governantes do mundo. Harari se vale de uma abordagem multidisciplinar que preenche as lacunas entre história, biologia, filosofia e economia, e, com uma perspectiva macro e micro, analisa não apenas os grandes acontecimentos, mas também as mudanças mais sutis notadas pelos indivíduos."
     }
   ],
   "present": [
@@ -90,53 +106,65 @@
     },
     {
       "title": "Meditações de Marco Aurélio",
-      "image": "meditacoes.jpg"
+      "image": "meditacoes.jpg",
+      "info": "Poucas obras antigas foram tão influentes quanto as Meditações de Marco Aurélio, filósofo e imperador de Roma entre os anos 161 e 180. Uma série de textos e ensaios repletos de sabedoria, orientação prática e profunda compreensão do comportamento humano, continua sendo uma das maiores obras de desenvolvimento pessoal e espiritual, princípios éticos e de comportamento já escritas."
     },
     {
       "title": "Sprint: O Método Usado no Google Para Testar e Aplicar Novas Ideias Em Apenas Cinco Dias",
-      "image": "sprint.jpg"
+      "image": "sprint.jpg",
+      "info": "Método criado pelo designer Jake Knapp no período em que ele trabalhava no Google, era usado para tudo na empresa, do aperfeiçoamento do mecanismo de buscas ao Google Hangouts, com o foco em desenvolver e testar ideias em apenas cinco dias. Knapp se juntou mais tarde a Braden Kowitz e John Zeratsky no Google Ventures, braço da companhia dedicado ao investimento em novos negócios, e juntos eles conduziram e completaram mais de cem sprints em empresas de telefonia, e-commerce, saúde, finanças e muito mais. Sprint serve para equipes de todos os tamanhos, de pequenas startups até os maiores conglomerados, e pode ser aplicado por qualquer um que tenha uma grande oportunidade, problema ou ideia e precise começar a trabalhar já."
     },
     {
       "title": "Superinteligência: Caminhos, perigos, estratégias",
-      "image": "superinteligencia.jpg"
+      "image": "superinteligencia.jpg",
+      "info": "Se algum dia os cérebros artificiais superarem a inteligência dos cérebros humanos, então esta nova superinteligência pode se tornar muito poderosa. Assim com o destino dos gorilas hoje depende mais dos humanos do que dos próprios símios, o destino da nossa espécie também se tornaria dependente das ações destas máquinas superinteligentes. Mas nós temos uma vantagem: começamos a dar o primeiro passo. Será possível construir uma inteligência artificial ou projetar condições iniciais para que possamos gerar uma explosão de inteligência sustentável, que não implique no fim da nossa espécie? Como poderíamos alcançar uma expansão controlada desta inteligência?"
     },
     {
       "title": "Casa-Grande e Senzala",
-      "image": "casagrandeesenzala.jpg"
+      "image": "casagrandeesenzala.jpg",
+      "info": "Em 1933, após exaustiva pesquisa, Gilberto Freyre publica Casa-grande & Senzala, livro que revoluciona os estudos no Brasil, tanto pela novidade dos conceitos quanto pela qualidade literária. É considerado o livro capital da cultura brasileira. Passados 80 anos, continua sendo um clássico da nossa literatura, mostrando, com beleza e vigor, a formação do povo brasileiro pela mistura de raças e culturas."
     }
   ],
   "future": [
     {
       "title": "Memórias póstumas de Bras Cubas",
-      "image": "memoriaspostumas.jpg"
+      "image": "memoriaspostumas.jpg",
+      "info": "Não tive filhos, não transmiti a nenhuma criatura o legado da nossa miséria. Com essas palavras, o narrador de Memórias Póstumas de Brás Cubas resume a sua vida. O tom assumido na obra, bem como as técnicas empregadas na composição romanesca, são alguns dos fatores que justificam o lugar de Machado de Assis entre os maiores escritores do século XIX. Neste romance repleto de digressões filosóficas, o escritor se vale da posição privilegiada de Brás Cubas, que, como defunto autor, narra as suas desventuras e revela as contradições da sociedade brasileira do século XIX, por meio de uma análise aprofundada de seus personagens."
     },
     {
       "title": "Teoria do Agir Comunicativo",
-      "image": "teoriaagircomunicativo.jpg"
+      "image": "teoriaagircomunicativo.jpg",
+      "info": "Nesta obra, Habermas discute três áreas temáticas do agir comunicativo: o conceito da racionalidade comunicativa; uma concepção de sociedade em dois níveis, capaz de amarrar, entre si, o paradigma da ação e o do sistema; e uma abordagem teórica, que tenta explicar os paradoxos da modernidade subordinando o mundo da vida, já estruturado do ponto de vista comunicativo, aos sistemas de ação imperativos, emancipados e formalmente organizados."
     },
     {
       "title": "A evolução criadora",
-      "image": "aevolucaocriadora.jpg"
+      "image": "aevolucaocriadora.jpg",
+      "info": "Principal obra de Henri Bergson, Prêmio Nobel de Liberatura de 1927, A evolução criadora (1907) representou uma ruptura com as principais correntes filosóficas do fim do século XIX. Diante da apologia do saber científico, rigoroso, das rígidas leis do determinismo, Bergson lança a afirmação de que a totalidade tem a mesma natureza do indivíduo, de um movimento incessante, um impulso de liberdade criadora que transforma de forma irrefreável a matéria. O filósofo francês discorre sobre o problema da existência humana e assevera que a mente – energia pura, impulso vital – é responsável por toda evolução orgânica."
     },
     {
       "title": "Código Limpo: Habilidades práticas do Agile Software",
-      "image": "codigolimpo.jpg"
+      "image": "codigolimpo.jpg",
+      "info": "Mesmo um código ruim pode funcionar. Mas se ele não for limpo, pode acabar com uma empresa de desenvolvimento. Perdem-se a cada ano horas incontáveis e recursos importantes devido a um código mal escrito. Mas não precisa ser assim.O renomado especialista em software, Robert C. Martin, apresenta um paradigma revolucionário com Código limpo: Habilidades Práticas do Agile Software."
     },
     {
       "title": "Homero: Ilíada e Odisseia",
-      "image": "iliadaodisseia.jpg"
+      "image": "iliadaodisseia.jpg",
+      "info": "Obras fundadoras da literatura ocidental, Ilíada e Odisseia são muito mais do que poemas épicos que narram a história da guerra de Troia ou do retorno de Ulisses a sua terra natal. Elas são a origem de um enorme repertório mítico que, avançando nos séculos, desempenha até os dias de hoje um importante papel no imaginário e na cultura do ocidente. A Ilíada parece consistir, pelo título, apenas de um breve incidente ocorrido no cerco dos gregos à cidade troiana de Ílion, a crônica de aproximadamente cinquenta dias de uma guerra que durou dez anos. No entanto, graças à maestria de seu autor, essa janela no tempo se abre para paisagens vastíssimas, repletas de personagens e eventos. É nesse épico homérico que surgem figuras como Páris, Helena, Heitor, Ulisses, Aquiles e Agamêmnon, e em seus versos somos transportados diretamente para a intimidade dos deuses, com suas relações familiares complexas e às vezes cômicas. Odisseia, por sua vez, se tornou também um substantivo comum, que denomina jornadas marcadas por perigos e eventos inesperados, e “homérico” um adjetivo usado para relatar feitos grandiosos, como o regresso de Ulisses a sua terra natal."
     },
     {
       "title": "A Filosofia e o espelho da natureza",
-      "image": "filosofiaespelhonatureza.jpg"
+      "image": "filosofiaespelhonatureza.jpg",
+      "info": "A tese central do autor consiste em mostrar como a filosofia moderna foi em grande parte dominada por uma ideia básica - o pressuposto de que a mente se caracteriza por 'espelhar' a natureza, o que garantiria a possibilidade do conhecimento, da representação correta da realidade. Examina como alguns dos princípios filosóficos desse período, de Descartes, seu originador, passando por Locke, Leibniz e Hume, até Kant, pretenderam discutir, elaborar e defender essa ideia central e adotaram, de uma maneira ou de outra, a epistemologia como área central da filosofia."
     },
     {
       "title": "Perdido em Marte",
-      "image": "perdidoemmarte.jpg"
+      "image": "perdidoemmarte.jpg",
+      "info": "Há seis dias, o astronauta Mark Watney se tornou a décima sétima pessoa a pisar em Marte. E, provavelmente, será a primeira a morrer no planeta vermelho. Depois de uma forte tempestade de areia, a missão Ares 3 é abortada e a tripulação vai embora, certa de que Mark morreu em um terrível acidente. Ao despertar, ele se vê completamente sozinho, ferido e sem ter como avisar às pessoas na Terra que está vivo. E, mesmo que conseguisse se comunicar, seus mantimentos terminariam anos antes da chegada de um possível resgate. Com um forte embasamento científico real e moderno, Perdido em Marte é um suspense memorável e divertido, impulsionado por uma trama que não para de surpreender o leitor."
     },
     {
       "title": "Estado, Governo, Sociedade: Fragmentos de um dicionário político",
-      "image": "estadogovernosociedade.jpg"
+      "image": "estadogovernosociedade.jpg",
+      "info": "Estado, governo, sociedade é um livro para quem deseja pensar a crise de nossa época sem dogmatismos, buscando reorganizar as bases da convivência social por meio da reforma do Estado e da própria política. Estabelece, assim, o que o autor denominou “fragmentos de uma teoria geral da política”, discutindo, entre outros temas, as diferentes formas de governo e de Estado, a ideia de sociedade civil na interpretação da tradição do direito natural e do debate atual e os critérios de legitimidade da democracia, da paz e da ordem universal."
     }
   ]
 }

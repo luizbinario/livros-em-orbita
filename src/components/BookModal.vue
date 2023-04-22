@@ -2,7 +2,7 @@
     <div v-if="open">
       <div class="absolute bg-slate-800 w-screen h-full bg-opacity-50 z-20 inset-0 flex items-center justify-end">
         <div class="modal border bg-slate-900 bg-opacity-75 p-6 rounded-lg mr-[10%] shadow-slate-100 shadow-lg z-30">
-          <div class="text-slate-500 bg-slate-100 flex justify-between rounded-full py-2 px-4">
+          <div class="text-slate-600 bg-slate-100 flex justify-between rounded-full py-2 px-4 z-40">
             <strong class="px-4 self-center">
               {{ book.title }}
             </strong>
@@ -64,6 +64,7 @@
 <style scoped lang="scss">
   .modal {
     width: 700px;
+    user-select: none;
   }
 
   .book-cover {
