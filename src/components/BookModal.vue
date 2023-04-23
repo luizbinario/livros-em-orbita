@@ -10,7 +10,7 @@
           </div>
           <div class="flex justify-between mt-6">
             <div class="book-cover shadow-slate-400 shadow-lg rounded-lg overflow-hidden mx-4 self-start">
-              <img :src="'/'+folder+'/'+book.image" class="book-cover">
+              <img :src="'/livros-em-orbita/'+folder+'/'+book.image" class="book-cover">
             </div>
             <div class="w-1/2">
               <div class="border-2 bg-white rounded-md overflow-y-auto p-2 mb-2 shadow-slate-400 shadow-lg book-info">
