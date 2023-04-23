@@ -14,7 +14,7 @@
         :class="[positions[index]]"
         @click.prevent="openModal(when, books[index])"
       >
-        <img class="w-14 h-18 border-2 rounded" :src="'/'+when+'/'+books[index].image">
+        <img class="w-14 h-18 border-2 rounded" :src="'/livros-em-orbita/'+when+'/'+books[index].image">
       </b>
     </div>
   </div>
