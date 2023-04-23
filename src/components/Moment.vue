@@ -7,7 +7,7 @@
       <div
         class="gravity rounded-full w-20 h-20 shadow-xl shadow-slate-100 overflow-hidden"
       >
-        <img src="avatar.png" class="avatar rounded-full">
+        <img src="/avatar.jpg" class="avatar rounded-full">
       </div>
       <b v-for="(book, index) in books" :key="index"
         class="book ease-in duration-1000 absolute cursor-pointer shadow-lg shadow-slate-100"
